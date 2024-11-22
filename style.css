@@ -1,12 +1,12 @@
 .chamada{
-    background-color: blue;
+    background-color: rgb(223, 223, 255);
     display: flex;
     padding-top: 80px;
     padding-bottom: 80px;
     justify-content: center;
 }
 body{
-    background-color: azure;
+    background-color: blue;
     margin: 0px;
     font-family: "Amatic SC", sans-serif;
     color: black;
