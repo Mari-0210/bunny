@@ -8,8 +8,13 @@
 body{
     background-color: azure;
     margin: 0px;
-    font-family: <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&display=swap" rel="stylesheet">;
-    
+    font-family: "Amatic SC", sans-serif;
+    color: black;
+    margin-bottom: 100px;
+}
+header{
+    font-size: 35px;
+    color: rgb(0, 0, 0);
+    border-bottom: 3px solid ;
+    padding: 20px;
 }
