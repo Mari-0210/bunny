@@ -1,0 +1,15 @@
+.chamada{
+    background-color: blue;
+    display: flex;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    justify-content: center;
+}
+body{
+    background-color: azure;
+    margin: 0px;
+    font-family: <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&display=swap" rel="stylesheet">;
+    
+}
